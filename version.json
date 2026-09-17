@@ -4,5 +4,5 @@
   "mandatory": false,
   "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.1/DeltaTerminal_Portable.exe",
   "sha256": "57955f2ffb86416188d11c105411ed3944ef24201d2e31eac49ac69ee4ceee8f",
-  "changelog": "\u2022 Apple MacBook Pro & macOS Sonoma/Monterey Liquid Glass UI/UX redesign\n\u2022 Interactive macOS Traffic Light controls (Close, Minimize, Zoom) with hover glyph reveals\n\u2022 Apple Sliding Pill Segmented Controls (MacSegmentedPill) with cubic easing animations\n\u2022 High-density Staging Deck with capsule quick-risk selectors, modern Buy/Sell buttons & hero card\n\u2022 SF Pro Display typography with tabular numerals for zero-jitter real-time price feeds\n\u2022 Guaranteed visible pinned action bars & responsive screen fitting across all display resolutions\n\u2022 Robust safe_create_task event loop isolation across all background async operations"
+  "changelog": "\u2022 Over-The-Air (OTA) Background Updater Engine with SHA-256 integrity verification\n\u2022 MacBook Pro-style fluid animation engine & zero window-movement dialog architecture\n\u2022 Sub-millisecond order dispatch & proactive exchange leverage handshake\n\u2022 1-Click instant market close with native Delta reduce-only execution\n\u2022 5-Point Live Preflight human verification gate with margin solvency defense"
 }
