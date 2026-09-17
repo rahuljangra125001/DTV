@@ -1,8 +1,8 @@
 {
-  "latest_version": "3.3.3",
+  "latest_version": "3.3.4",
   "release_date": "2026-09-17",
   "mandatory": false,
-  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.3/DeltaTerminal_Portable.exe",
-  "sha256": "22d92170a9fab2684a339a7760ecfbfee08de4cb0d164fcd154bb8def811c817",
-  "changelog": "\u2022 User custom Entry, SL, and TP prices are strictly locked and preserved (never overwritten by live market ticks) \u2022 Staged orders with custom entry prices dispatch as limit_order at exact user entry price \u2022 Hero Lot Sizing Box is hidden by default when idle and appears only when trade staging is initiated \u2022 Completely eliminated dialog and launch lag by removing QGraphicsOpacityEffect offscreen rasterization overhead \u2022 Instant zero-delay settings modal open, close, and tab switching"
+  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.4/DeltaTerminal_Portable.exe",
+  "sha256": "dd836789bdf64ee8c762180bb2fce02366a65a9cb08938482e4f8def5407bdfa",
+  "changelog": "\u2022 Added explicit Limit vs Market order mode toggle in Staging Deck\n\u2022 Guaranteed user-provided Entry price preservation against live market ticks\n\u2022 Sub-millisecond staging deck and chart 60 FPS synchronization\n\u2022 0ms optimistic order cancellation and immediate open order sync"
 }
