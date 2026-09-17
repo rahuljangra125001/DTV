@@ -1,8 +1,8 @@
 {
-  "latest_version": "3.3.2",
+  "latest_version": "3.3.3",
   "release_date": "2026-09-17",
   "mandatory": false,
-  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.2/DeltaTerminal_Portable.exe",
-  "sha256": "d6f99e12cfe24ba7fc6b99618cccc2094718fc990a6bffaadf83e0f18833abbd",
-  "changelog": "\u2022 Fixed leverage spinbox truncation in Staging Deck (full 5.0x / 100.0x visibility) \u2022 Optimized Settings Dialog geometry & eliminated offscreen overflow \u2022 Fixed automatic dark mode reset when navigating settings \u2022 Reorganized Risk, FX and Execution into 3 categorized scrollable macOS cards \u2022 Accelerated startup with zero-lag transition \u2022 Hardened OTA updater with robust supervisor script, file locking retry loop, and atomic restart"
+  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.3/DeltaTerminal_Portable.exe",
+  "sha256": "22d92170a9fab2684a339a7760ecfbfee08de4cb0d164fcd154bb8def811c817",
+  "changelog": "\u2022 User custom Entry, SL, and TP prices are strictly locked and preserved (never overwritten by live market ticks) \u2022 Staged orders with custom entry prices dispatch as limit_order at exact user entry price \u2022 Hero Lot Sizing Box is hidden by default when idle and appears only when trade staging is initiated \u2022 Completely eliminated dialog and launch lag by removing QGraphicsOpacityEffect offscreen rasterization overhead \u2022 Instant zero-delay settings modal open, close, and tab switching"
 }
