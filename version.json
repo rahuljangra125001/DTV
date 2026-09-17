@@ -1,8 +1,8 @@
 {
-  "latest_version": "3.3.1",
+  "latest_version": "3.3.2",
   "release_date": "2026-09-17",
   "mandatory": false,
-  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.1/DeltaTerminal_Portable.exe",
-  "sha256": "57955f2ffb86416188d11c105411ed3944ef24201d2e31eac49ac69ee4ceee8f",
-  "changelog": "\u2022 Over-The-Air (OTA) Background Updater Engine with SHA-256 integrity verification\n\u2022 MacBook Pro-style fluid animation engine & zero window-movement dialog architecture\n\u2022 Sub-millisecond order dispatch & proactive exchange leverage handshake\n\u2022 1-Click instant market close with native Delta reduce-only execution\n\u2022 5-Point Live Preflight human verification gate with margin solvency defense"
+  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.2/DeltaTerminal_Portable.exe",
+  "sha256": "d6f99e12cfe24ba7fc6b99618cccc2094718fc990a6bffaadf83e0f18833abbd",
+  "changelog": "\u2022 Fixed leverage spinbox truncation in Staging Deck (full 5.0x / 100.0x visibility) \u2022 Optimized Settings Dialog geometry & eliminated offscreen overflow \u2022 Fixed automatic dark mode reset when navigating settings \u2022 Reorganized Risk, FX and Execution into 3 categorized scrollable macOS cards \u2022 Accelerated startup with zero-lag transition \u2022 Hardened OTA updater with robust supervisor script, file locking retry loop, and atomic restart"
 }
