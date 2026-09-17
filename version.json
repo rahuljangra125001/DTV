@@ -1,8 +1,8 @@
 {
-  "latest_version": "3.3.4",
+  "latest_version": "3.3.5",
   "release_date": "2026-09-18",
   "mandatory": false,
-  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.4/DeltaTerminal_Portable.exe",
-  "sha256": "dd836789bdf64ee8c762180bb2fce02366a65a9cb08938482e4f8def5407bdfa",
-  "changelog": "\u2022 Added explicit Limit vs Market order mode toggle in Staging Deck\n\u2022 Guaranteed user-provided Entry price preservation against live market ticks\n\u2022 Sub-millisecond staging deck and chart 60 FPS synchronization\n\u2022 0ms optimistic order cancellation and immediate open order sync"
+  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.5/DeltaTerminal_Portable.exe",
+  "sha256": "13362ed01e1c078a26d327acc1ac07d2a213dc0807612e2071940c948de08795",
+  "changelog": "\u2022 In-App SL & TP position modification with 1-click presets and live Delta Exchange bracket sync\n\u2022 DarkShadow UI fluid animation engine & zero window-movement dialog architecture\n\u2022 Mouse-first power user ergonomics with right-click context menus & quick percentage presets\n\u2022 Sub-millisecond order dispatch & proactive exchange leverage handshake\n\u2022 1-Click instant market close with native Delta reduce-only execution"
 }
