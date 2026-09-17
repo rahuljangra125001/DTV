@@ -1,0 +1,8 @@
+{
+  "latest_version": "3.3.0",
+  "release_date": "2026-09-17",
+  "mandatory": false,
+  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.0/DeltaTerminal_Portable.exe",
+  "sha256": "40615fe2241da6114c8ec91dc1d5fe1862fece9b40800a0272a82954d278f000",
+  "changelog": "\u2022 Over-The-Air (OTA) Background Updater Engine with SHA-256 integrity verification\n\u2022 MacBook Pro-style fluid animation engine & zero window-movement dialog architecture\n\u2022 Sub-millisecond order dispatch & proactive exchange leverage handshake\n\u2022 1-Click instant market close with native Delta reduce-only execution\n\u2022 5-Point Live Preflight human verification gate with margin solvency defense"
+}
