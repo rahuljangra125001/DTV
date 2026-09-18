@@ -3,6 +3,6 @@
   "release_date": "2026-09-18",
   "mandatory": false,
   "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.3.5/DeltaTerminal_Portable.exe",
-  "sha256": "afb394a821cf43cda3d3e751a6b4260a5dce71f4a2035e0dd7fbf4db341d8886",
+  "sha256": "91f5243239e92ad5879102b5b6c84a783f1764df9c3afac25d78f3ea8499529f",
   "changelog": "\u2022 In-App SL & TP position modification with 1-click presets and live Delta Exchange bracket sync\n\u2022 DarkShadow UI fluid animation engine & zero window-movement dialog architecture\n\u2022 Mouse-first power user ergonomics with right-click context menus & quick percentage presets\n\u2022 Sub-millisecond order dispatch & proactive exchange leverage handshake\n\u2022 1-Click instant market close with native Delta reduce-only execution"
 }
