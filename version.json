@@ -3,6 +3,6 @@
   "release_date": "2026-09-21",
   "mandatory": false,
   "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.4.3/DeltaTerminal_Portable.exe",
-  "sha256": "b98ffaabf80a653796c29884f59d500b558e1822a472e3f7ff4b72a234ebb3b2",
+  "sha256": "5a398634e511b62939f0c183bb80ab6a111b4e0d0bb79492a93075f0180e3474",
   "changelog": "\u2022 Labels > Countdown to Bar Close Enabled by Default: Price scale countdown timer stays active out-of-the-box across timeframe switches and chart reloads\n\u2022 Automatic Account Balance Refresh: Live and demo free margin automatically synchronizes across order placement, position market close, order cancellation, and WebSocket fills\n\u2022 Top HUD Live Balance Pill: High-contrast balance pill on cockpit header with instant 1-click manual sync\n\u2022 Clean Price Scale & On-Pill Price Badges: Entry, Take Profit, and Stop Loss exact prices render directly inside draggable pills instead of covering the right price bar, keeping live market price and bar countdown 100% visible\n\u2022 Permanent Chart Profile Storage: All user chart drawings, favorite time intervals, indicators, and preferences persist seamlessly across application restarts via permanent Chromium profile storage\n\u2022 DELTAIN Native Perpetual Feed Priority: Charts prioritize DELTAIN:{symbol}.P directly matching Delta Exchange India perpetual orderbook with Binance fallback only if unavailable\n\u2022 Non-Destructive In-Place Timeframe Switching: Timeframe switches execute via chart JavaScript without browser page reloads"
 }
