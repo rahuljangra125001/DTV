@@ -1,8 +1,8 @@
 {
-  "latest_version": "3.4.5",
-  "release_date": "2026-09-23",
+  "latest_version": "3.4.6",
+  "release_date": "2026-09-24",
   "mandatory": false,
-  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.4.5/DeltaTerminal_Portable.exe",
-  "sha256": "051a09abf7ca712180c3117dfe52081cd27a3e8007be2103a5977efcb1cda053",
-  "changelog": "\u2022 Over-The-Air Update Architecture Overhaul: Fully resolved WinRAR/archive temporary extraction bug; updates automatically redirect to permanent local installation with automatic Desktop shortcut creation and failsafe relaunch\n\u2022 Native Private GitHub Repository OTA Streaming: Direct streaming integration with GitHub Releases API and chunked SHA-256 verification\n\u2022 Delta Account Real-Time Trading History: New dedicated Tab 3 in bottom drawer fetching live Order History and Trade Fills from Delta Exchange\n\u2022 Trading History Interactive Filtering: Filter dynamically between All Orders, Filled Orders, Cancelled Orders, and Executed Fills with cancellation reasons and fee details\n\u2022 Real-Time Order & Fill Refresh: One-click non-blocking asynchronous sync with Delta Exchange API\n\u2022 Dynamic Single-Source Versioning: Centralized version management across all UI dialogs, headers, and build pipelines"
+  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.4.6/DeltaTerminal_Portable.exe",
+  "sha256": "64c8d698356490786891e7907300361f6e7c7adad401019f9331d0206aab48c1",
+  "changelog": "\u2022 Top-Level Navigation Architecture: Dedicated full-screen Trading History section with [ \ud83c\udfe0 Home ] and [ \ud83d\udcdc Trading History ] segmented navigation tabs in the main HUD\n\u2022 Real-Time Order & Fill Analytics: Key metric cards for Total Orders, Executed Trades, Traded Lots, and Total Fees Paid\n\u2022 Multi-Stage Filter & Search: Live filter by Order State, Coin/Symbol, Time Period, and instant text search across all trade fields\n\u2022 Interactive Chart Switching: Double-clicking any trade or clicking View Chart immediately selects the coin and navigates to the TradingView chart\n\u2022 1-Click CSV Export: Export complete trading history with all execution details to CSV\n\u2022 Over-The-Air Update Engine: Archive execution redirection, permanent desktop shortcuts, and fail-safe relaunch"
 }
