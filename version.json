@@ -1,8 +1,8 @@
 {
-  "latest_version": "3.4.6",
+  "latest_version": "3.4.7",
   "release_date": "2026-09-24",
   "mandatory": false,
-  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.4.6/DeltaTerminal_Portable.exe",
-  "sha256": "64c8d698356490786891e7907300361f6e7c7adad401019f9331d0206aab48c1",
-  "changelog": "\u2022 Top-Level Navigation Architecture: Dedicated full-screen Trading History section with [ \ud83c\udfe0 Home ] and [ \ud83d\udcdc Trading History ] segmented navigation tabs in the main HUD\n\u2022 Real-Time Order & Fill Analytics: Key metric cards for Total Orders, Executed Trades, Traded Lots, and Total Fees Paid\n\u2022 Multi-Stage Filter & Search: Live filter by Order State, Coin/Symbol, Time Period, and instant text search across all trade fields\n\u2022 Interactive Chart Switching: Double-clicking any trade or clicking View Chart immediately selects the coin and navigates to the TradingView chart\n\u2022 1-Click CSV Export: Export complete trading history with all execution details to CSV\n\u2022 Over-The-Air Update Engine: Archive execution redirection, permanent desktop shortcuts, and fail-safe relaunch"
+  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.4.7/DeltaTerminal_Portable.exe",
+  "sha256": "316d57f5c7d6f9dd9df894eb178b02020b9e48b0da05f871392dcbdf987d2337",
+  "changelog": "\u2022 Modern Cyber Loading Animation: 120 FPS holographic dual-ring gyro with breathing Delta prism core and sweeping laser energy scanlines\n\u2022 Futuristic Top HUD Brand Badge: CyberBrandEmblem combining the Dark Shadow dragon emblem and glowing neon Delta badge\n\u2022 Rebalanced Settings Dialog: Relocated Master Trading Execution Mode (Demo vs Live) into the About section under OTA Updates for a clean and proper dialog shape\n\u2022 120 FPS Buttery Performance: DirectX 11 DirectComposition pipeline, zero-copy shaders, and debounced price tick stylesheet updates\n\u2022 Top-Level Navigation Architecture: Dedicated full-screen Trading History section with [ \ud83c\udfe0 Home ] and [ \ud83d\udcdc Trading History ] segmented navigation tabs in the main HUD\n\u2022 Over-The-Air Update Engine: Archive execution redirection, permanent desktop shortcuts, and fail-safe relaunch"
 }
