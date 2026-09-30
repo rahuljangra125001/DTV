@@ -3,6 +3,6 @@
   "release_date": "2026-09-30",
   "mandatory": false,
   "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.5.1/DeltaTerminal_Portable.exe",
-  "sha256": "4a85c572f584d49eb6c632a4c3b3833f2a115b67b6dc6d09212b1acd4b8e85b7",
+  "sha256": "55d2d0e9fe02172167877732184db125f60e0f2a38e52e4a3146d20bab9c2f4c",
   "changelog": "\u2022 Guaranteed User-Applied Chart Workspace Persistence (v3.5.1 Hotfix): Full-fidelity indicator parameters, styles, and drawings saved and restored across restarts\n\u2022 Explicit User Intent Tracking: Distinguishes intentional user deletions (USER_ACTION) from startup race-condition empty wipes (APPLICATION_INIT / PAGE_RELOAD)\n\u2022 Schema v2 State Machine: Deterministic SHA-256 state hashing with PENDING -> CAPTURING -> VALID -> SAVING -> SAVED lifecycle\n\u2022 Verified TradingView Restoration Loop: Query -> Diff -> Bounded Repair -> Verification loop with bounded retries and zero infinite loops\n\u2022 Strict Multi-Symbol Isolation: Eliminates indicator bleed and drawing carryover when switching between BTCUSD, ETHUSD, and SOLUSD\n\u2022 Subtle Workspace Status Badge: Visual feedback on chart canvas ('\u2713 Workspace saved', '\u25cf Saving workspace...', '\u26a1 Recovered from backup')\n\u2022 Developer ChartStateDebugger: Comprehensive 7-stage transition snapshot diffing and component hash verification"
 }
