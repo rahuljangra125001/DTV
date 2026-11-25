@@ -1,8 +1,8 @@
 {
-  "latest_version": "3.5.1",
-  "release_date": "2026-09-30",
+  "latest_version": "3.8.2",
+  "release_date": "2026-11-25",
   "mandatory": false,
-  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.5.1/DeltaTerminal_Portable.exe",
-  "sha256": "ac63451ba9853fb4ac950c883d656467229221d4281918ad2ab83dc3b0902149",
-  "changelog": "\u2022 Guaranteed User-Applied Chart Workspace Persistence (v3.5.1 Hotfix): Full-fidelity indicator parameters, styles, and drawings saved and restored across restarts\n\u2022 Dynamic-R 1:1 Target Ratcheting & Break-Even SL Advancement: Resolved 1.0R validation check and exchange limit order collision, enabling seamless 1:1 Break-Even bracket ratcheting and dynamic TP extension\n\u2022 Explicit User Intent Tracking: Distinguishes intentional user deletions (USER_ACTION) from startup race-condition empty wipes (APPLICATION_INIT / PAGE_RELOAD)\n\u2022 Schema v2 State Machine: Deterministic SHA-256 state hashing with PENDING -> CAPTURING -> VALID -> SAVING -> SAVED lifecycle\n\u2022 Verified TradingView Restoration Loop: Query -> Diff -> Bounded Repair -> Verification loop with bounded retries and zero infinite loops\n\u2022 Strict Multi-Symbol Isolation: Eliminates indicator bleed and drawing carryover when switching between BTCUSD, ETHUSD, and SOLUSD\n\u2022 Subtle Workspace Status Badge: Visual feedback on chart canvas ('\u2713 Workspace saved', '\u25cf Saving workspace...', '\u26a1 Recovered from backup')"
+  "download_url": "https://github.com/rahuljangra125001/DTV/releases/download/v3.8.2/DeltaTerminal_Portable.exe",
+  "sha256": "3e7f60e2f9020a0d7607ccf759d2591f75e270e7bfe17a473086303331480172",
+  "changelog": "\u2022 Strict Fail-Closed Position Close & Panic De-Risk: Enforces 6-step protocol (cancel orders, verify order state, verify exchange positions, submit reduce_only=True, confirm flat post-close) and keeps unresolved/partial positions visible\n\u2022 Authoritative Order Routing & Limit Execution Semantics: Isolates Testnet orders under exchange authority, preserves Live limit_price/is_stop_entry, and enforces bid/ask quote fills (ask <= limit Buy, bid >= limit Sell) with depth-based partial fills in Paper mode\n\u2022 India Production Market-Data Isolation: Restricts public WebSocket failover to wss://public-socket.india.delta.exchange with trades/ob_l2/ticker subscriptions and distinguishes Production market data from Demo/Live execution & account scope\n\u2022 Complete Vela Chart Workspace Persistence: Fixed WebChannel bridge handshake (on_bridge_ready/on_page_ready), Clear All & legend removal across restarts, Pine/native parameter & visibility fidelity, multi-chart independent visible_range, and 7-stage SHA-256 verification"
 }
